@@ -6,7 +6,7 @@ metadata:
   labels:
     name: rcprod
 spec:
-  replicas: 6
+  replicas: 8
   selector:
     app: javawebapp
   template:
